@@ -2,7 +2,7 @@
 Autor: **Leca Maria Cătălina - 315CA**  
 Copyright © 2023-2024  
 Materia: **Programarea Calculatoarelor și Limbaje de Programare 1**  
-Tema 3 - **Editor de imagini (Procesare de imagini în C)**  
+Tema 2 - **Editor de imagini (Procesare de imagini în C)**  
 
 ---
 
